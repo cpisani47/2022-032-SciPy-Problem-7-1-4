@@ -16,7 +16,7 @@ We create a python virtual environment at the top level directory. Each subdirec
 1. Load Data into the database from the CSV files `python manage.py load_csv`.
 1. Create directory `ccgg/static/ccgg`
 1. Generate graphs `python manage.py generate_graph` to generate average and 
-1. Start Development Webserver `python manage.py runserver 22140`
+1. Start Development Webserver `python manage.py runserver 22320`
 
 ### Test Cases - `ccgg/`
 
